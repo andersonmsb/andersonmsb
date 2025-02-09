@@ -7,6 +7,8 @@
 
 ![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonmsb&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmsb)](https://github.com/andersonmsb/github-readme-stats)
+
 ### Técnologias que uso no meu dia
 
 <div style="display> inline_block"><br/>
