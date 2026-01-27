@@ -1,8 +1,7 @@
 
-### Eai! Eu sou o Anderson Barros 🤝
+### Olá! Eu sou o Anderson Barros
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andersonnmsb/)
-[![Youtube](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/library/playlists)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonnmsb/)
 
 ![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonmsb&show_icons=true&theme=radical)
@@ -19,7 +18,7 @@
     <img align="center" alt="tailwind css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div><br/>
 
-Gosto de umas músicas, esportes e técnologias
+Gosto de umas música, esporte e técnologia
 
 ### Email para contato:
 - [andersonmsbarros@gmail.com](andersonmsbarros@gmail.com)<br/>
