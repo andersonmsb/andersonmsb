@@ -15,7 +15,7 @@
     <img align="center" alt="tailwind css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div><br/>
 
-Gosto de umas música, esporte e técnologia
+Gosto de  música, esporte e técnologia
 
 ### Email para contato:
 - [andersonmsbarros@gmail.com](andersonmsbarros@gmail.com)<br/>
